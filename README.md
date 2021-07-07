@@ -31,6 +31,13 @@ npm install
 ```
  
 
+### Ejecucion 🔧
+
+_2- En la raiz del proyecto para Ejecutar el prouecto:_
+
+```bash
+npm start
+```
  
 
 ## Construido con 🛠️
@@ -41,7 +48,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
   
 * [npm](https://www.npmjs.com/) - Manejador de dependencias
  
-* [tailwind](https://tailwindcss.com/)-  frameworks CSS o también llamados frameworks de diseño
+* [Material-Ui](https://material-ui.com/es/)-  Componentes de React para un desarrollo web más rápido y sencillo. 
 
  
  
